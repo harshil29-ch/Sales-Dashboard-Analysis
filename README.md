@@ -26,7 +26,7 @@ This project presents an interactive **Sales Dashboard** built using Power BI to
 
  Dashboard Preview
 
-
+![WhatsApp Image 2026-03-19 at 21 34 59](https://github.com/user-attachments/assets/6b1313c7-b99b-42a9-8111-195c28b7013f)
 
  Insights
 
@@ -46,7 +46,3 @@ This project presents an interactive **Sales Dashboard** built using Power BI to
 * Add predictive analytics
 * Include customer segmentation
 * Real-time data integration
-
----
-
-## ⭐ If you like this project, give it a star!
